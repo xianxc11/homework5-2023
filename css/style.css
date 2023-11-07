@@ -84,7 +84,6 @@ can see that in the mobile view they all have the same width.*/
     display: flex;
     flex-direction: column;
     width: 450px;
-    align-items: space-around;
 }
 
 /*8. Edit the css for the pricing class to match our example. You should use flex and the
